@@ -18,7 +18,7 @@ GhostScan eliminates this vulnerability by running an orthogonal, synchronized f
 
 GhostScan implements a synchronized dual-stream architecture converging into a standardized evaluation contract:
 
-![Dual-Stream Architecture](visuals/dual_stream_architecture.png)
+![Dual-Stream Architecture](https://raw.githubusercontent.com/rizzshi/ghostscan/main/visuals/dual_stream_architecture.png)
 
 ### Architectural Components
 
@@ -49,7 +49,7 @@ GhostScan implements a synchronized dual-stream architecture converging into a s
 
 Below is the comparative evaluation of a fine-tuned ResNet-18 diagnostic victim model evaluated with and without GhostScan under Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) attacks:
 
-![Adversarial Flip and Attribution](visuals/adversarial_flip_and_attribution.png)
+![Adversarial Flip and Attribution](https://raw.githubusercontent.com/rizzshi/ghostscan/main/visuals/adversarial_flip_and_attribution.png)
 
 ### Quantitative Evaluation Summary
 
@@ -70,7 +70,7 @@ Below is the comparative evaluation of a fine-tuned ResNet-18 diagnostic victim 
 
 GhostScan includes an interactive Gradio web application for real-time audit inspection:
 
-![Gradio Dashboard Preview](visuals/gradio_dashboard_preview.png)
+![Gradio Dashboard Preview](https://raw.githubusercontent.com/rizzshi/ghostscan/main/visuals/gradio_dashboard_preview.png)
 
 ### Dashboard Capabilities
 - Upload arbitrary clinical radiographs or select from included pre-loaded benchmarks.
