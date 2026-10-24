@@ -1,0 +1,14 @@
+{
+  "id": "tfisthis/ghostscan-adversarial-forensics",
+  "title": "ghostscan adversarial forensics",
+  "code_file": "GhostScan_Demo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use GhostScan in your research, please cite it as below."
+title: "GhostScan: Dual-Stream Adversarial Forensics and Diagnostics"
+abstract: "A dual-stream adversarial perturbation detector and forensic explainability framework for medical image classification."
+authors:
+  - family-names: "Doe"
+    given-names: "Jane"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Smith"
+    given-names: "John"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 0.1.0
+doi: "10.5281/zenodo.1234567"
+date-released: 2026-10-23
+url: "https://github.com/your-org/ghostscan"
+repository-code: "https://github.com/your-org/ghostscan"
+license: MIT
+keywords:
+  - "adversarial-robustness"
+  - "medical-imaging"
+  - "chest-xray"
+  - "ai-forensics"
+  - "captum"

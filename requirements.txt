@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+captum>=0.7
+torchattacks>=3.0
+gradio>=4.0
+numpy>=1.24
+matplotlib>=3.0
+scikit-learn>=1.0
